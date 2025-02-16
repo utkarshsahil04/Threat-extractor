@@ -1,0 +1,10 @@
+
+PyPDF2==3.0.0
+spacy==3.6.1
+pdfplumber==0.5.28
+transformers==4.31.0
+
+# Additional libraries for enhanced functionality
+regex==2023.6.3    # For advanced text processing
+torch==2.0.1       # Required by Hugging Face transformers
+tokenizers==0.13.3 # For tokenization support in transformers

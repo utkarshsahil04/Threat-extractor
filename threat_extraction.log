@@ -1,0 +1,28 @@
+2025-02-16 15:18:11,328 :ERROR: Spacy model not found
+2025-02-16 15:18:11,328 :ERROR: Failed to laead Ner Model ; Incorrect path_or_model_id: 'dislim/bert-base=NER'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-02-16 15:18:11,328 :ERROR: File not found : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:18:11,328 :ERROR: Error: Could not extract text from the PDF.FIle does not exist : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:20:13,325 :ERROR: Spacy model not found
+2025-02-16 15:20:13,332 :ERROR: Failed to laead Ner Model ; Incorrect path_or_model_id: 'dislim/bert-base=NER'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-02-16 15:20:13,332 :ERROR: File not found : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:20:13,332 :ERROR: Error: Could not extract text from the PDF.FIle does not exist : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:20:21,462 :ERROR: Spacy model not found
+2025-02-16 15:20:21,462 :ERROR: Failed to laead Ner Model ; Incorrect path_or_model_id: 'dislim/bert-base=NER'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-02-16 15:20:21,462 :ERROR: File not found : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:20:21,463 :ERROR: Error: Could not extract text from the PDF.FIle does not exist : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:24:26,934 :ERROR: Spacy model not found
+2025-02-16 15:24:26,934 :ERROR: Failed to laead Ner Model ; Incorrect path_or_model_id: 'dislim/bert-base=NER'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-02-16 15:24:26,934 :ERROR: File not found : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:24:26,934 :ERROR: Error: Could not extract text from the PDF.FIle does not exist : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:50:30,954 :ERROR: Spacy model not found
+2025-02-16 15:50:30,956 :ERROR: Failed to laead Ner Model ; Incorrect path_or_model_id: 'dislim/bert-base=NER'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-02-16 15:50:30,956 :ERROR: File not found : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:50:30,956 :ERROR: Error: Could not extract text from the PDF.FIle does not exist : CiscoTalos_TransparentTribe-bespoke-malware-target-Indian-gov-officials
+2025-02-16 15:56:17,597 :ERROR: Spacy model not found
+2025-02-16 15:56:17,597 :ERROR: Failed to laead Ner Model ; Incorrect path_or_model_id: 'dislim/bert-base=NER'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-02-16 15:56:18,758 :ERROR: Error: Could not extract text from the PDF.'ThreatIntelligenceExtractor' object has no attribute 'nlp'
+2025-02-16 16:01:36,419 :ERROR: Spacy model not found
+2025-02-16 16:01:36,420 :ERROR: Failed to laead Ner Model ; Incorrect path_or_model_id: 'dislim/bert-base=ner'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-02-16 16:01:37,534 :ERROR: Error: Could not extract text from the PDF.'ThreatIntelligenceExtractor' object has no attribute 'nlp'
+2025-02-16 16:02:46,312 :ERROR: Failed to laead Ner Model ; Incorrect path_or_model_id: 'dislim/bert-base=ner'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-02-16 16:02:48,737 :INFO: Threat Data has been added succesfully in output2.json
